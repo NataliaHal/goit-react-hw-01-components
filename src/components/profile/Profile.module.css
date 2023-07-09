@@ -3,10 +3,10 @@
   justify-content: center;
   flex-direction: column;
   margin: auto;
-  width: 400px;
-  box-shadow: 4px 1px 4px rgb(0 0 0 / 12%), 0 4px 4px rgb(0 0 0 / 6%),
+  width: 500px;
+  box-shadow: 5px 1px 5px rgb(0 0 0 / 12%), 0 4px 4px rgb(0 0 0 / 6%),
     1px 4px 6px rgb(0 0 0 / 16%);
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .avatar {
@@ -16,9 +16,8 @@
   margin-bottom: 15px;
   border-radius: 50%;
   width: 250px;
-  /* height: 300px; */
   object-fit: cover;
-  border: 2px solid rgb(235, 232, 232);
+  border: 3px solid rgb(213, 204, 204);
 }
 
 .name {
@@ -44,7 +43,7 @@
   justify-content: center;
   margin-left: auto;
   margin-right: auto;
-  background-color: #f5f2f2;
+  background-color: #e4e2e2;
   width: 100%;
 }
 
@@ -55,7 +54,7 @@
   flex-direction: column;
   justify-content: center;
   flex-basis: 33%;
-  border: 1px solid grey;
+  border: 1px solid rgb(192, 189, 189);
 }
 
 .label {
